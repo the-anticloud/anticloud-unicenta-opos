@@ -1,0 +1,9 @@
+# AIOSS ledger v1
+# project: SUPERMARKETS/UNICENTA_OPOS
+# records: 5
+# head: d1e2ad23ae92c11eb734a565e224dbde06bcf465d982e9656bd22410a5d86af1
+{"digest": "287f78d8c3827b67cbb1be6594c2cde31379d0b898e0f2734ea14b54709641e8", "kind": "bench-report", "path": "BENCH.json", "payload_sha3": "e3d37c10d319ab0be8578b3ab78f243e4847820178ee74ed55976a57a797d1b5", "prev": "5a5a9db5fb708ae61804306200e7a9e31853dde596c5f14d2303d4349fe14b2d", "seq": 0, "ts": "2026-10-09T05:54:59Z"}
+{"digest": "7213be51984c18094c8e79ca2cdea4ac743602d3e1d34938f5cdd13d11d67310", "kind": "result-register", "path": "ISOLATED_LAB_RESULTS/03_Result_Register.md", "payload_sha3": "1bca50fd1652a4d9c0664b640c923b9a5ba59113fc351c707f02d75985f3782d", "prev": "287f78d8c3827b67cbb1be6594c2cde31379d0b898e0f2734ea14b54709641e8", "seq": 1, "ts": "2026-10-09T05:54:59Z"}
+{"digest": "bcba323eae85043f62d420b3481811f5648c6e4c6583d4f871827c474d0ea6f1", "kind": "readme", "path": "README.md", "payload_sha3": "dfe64c9ef6c11f96cd3b75df6a9c96c89cbf3a51acb4c368b76d0f1fffb658bb", "prev": "7213be51984c18094c8e79ca2cdea4ac743602d3e1d34938f5cdd13d11d67310", "seq": 2, "ts": "2026-10-09T05:54:59Z"}
+{"digest": "330ab81ba76744145bd923582fa639b57168508b16900e495c89f91a8977809c", "kind": "licence", "path": "ANTICOMMONS_LICENSE.md", "payload_sha3": "e67048aac199a85b590ed8f354637a2fcd2fba32a75926c425cd5e86814b1010", "prev": "bcba323eae85043f62d420b3481811f5648c6e4c6583d4f871827c474d0ea6f1", "seq": 3, "ts": "2026-10-09T05:54:59Z"}
+{"digest": "d1e2ad23ae92c11eb734a565e224dbde06bcf465d982e9656bd22410a5d86af1", "kind": "notice", "path": "NOTICE", "payload_sha3": "67f79daf4ffa83176266a2466fadc3cf13931c3a1e6b5715b8492bcfa6c6ccc3", "prev": "330ab81ba76744145bd923582fa639b57168508b16900e495c89f91a8977809c", "seq": 4, "ts": "2026-10-09T05:54:59Z"}
