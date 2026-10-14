@@ -1,0 +1,74 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:9547e1e6-a984-5192-a717-b14777aa1968",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-12T05:42:17Z",
+    "component": {
+      "type": "application",
+      "name": "UNICENTA_OPOS",
+      "version": "22e7ae439ead",
+      "bom-ref": "pkg:generic/anticloud/UNICENTA_OPOS@22e7ae439ead",
+      "purl": "pkg:generic/anticloud/UNICENTA_OPOS@22e7ae439ead",
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "22e7ae439eadd4f3a14f90a10cd54d0f3fd7c298"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": ""
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "library",
+      "name": "url",
+      "version": "https://pypi.org/simple",
+      "purl": "pkg:pypi/url@https://pypi.org/simple",
+      "bom-ref": "pypi/url@https://pypi.org/simple"
+    },
+    {
+      "type": "library",
+      "name": "verify_ssl",
+      "version": "true",
+      "purl": "pkg:pypi/verify-ssl@true",
+      "bom-ref": "pypi/verify_ssl@true"
+    },
+    {
+      "type": "library",
+      "name": "name",
+      "version": "pypi",
+      "purl": "pkg:pypi/name@pypi",
+      "bom-ref": "pypi/name@pypi"
+    },
+    {
+      "type": "library",
+      "name": "Pillow",
+      "version": "*",
+      "purl": "pkg:pypi/pillow@*",
+      "bom-ref": "pypi/Pillow@*"
+    },
+    {
+      "type": "library",
+      "name": "python_version",
+      "version": "3.12",
+      "purl": "pkg:pypi/python-version@3.12",
+      "bom-ref": "pypi/python_version@3.12"
+    }
+  ]
+}
