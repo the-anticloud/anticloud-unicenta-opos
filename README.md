@@ -1,14 +1,12 @@
 # UNICENTA_OPOS
 
-> An open-source Flutter app designed for small restaurants and businesses.
+> uniCenta-oPOS Mirror of uniCenta oPOS
 
-**Category:** POS_SYSTEMS · **Ecosystem:** unknown · **Vendored upstream:** https://github.com/evan361425/flutter-pos-system · **Pinned commit:** `22e7ae439eadd4f3a14f90a10cd54d0f3fd7c298` · **Vendor:** Anticloud FZ LLE
-
-> **Note:** this package vendors `https://github.com/evan361425/flutter-pos-system` as the implementation for the `UNICENTA_OPOS` slot. The vendored repository name differs from the package name; the pin above is the exact commit vendored here.
+**Category:** POS_SYSTEMS · **Ecosystem:** unknown · **Vendored upstream:** https://github.com/DeanBeer/uniCenta-oPOS · **Pinned commit:** `e67d2e1d5ec0dc1dda6b633e70be6f94834dabca` · **Vendor:** Anticloud FZ LLE
 
 ## What This Project Is
 
-An open-source Flutter app designed for small restaurants and businesses.
+uniCenta-oPOS Mirror of uniCenta oPOS
 
 This is the upstream project, vendored at the pinned commit above and packaged offline-first. The 12 improvements Anticloud adds live in `anticloud/` and are described under *Anticloud Overlay* below. Every fact in this file traces to a file in this directory.
 
@@ -62,7 +60,7 @@ The upstream licence is preserved in `LICENSE` and `THIRD_PARTY_LICENSES/`. The 
 SHA3-256 of `BENCH.json`:
 
 ```
-ad60132b4cd9e6ec02ff8dbf346df3860f3fa6cbcd6f68b24cdd490d9caa1a83
+cdb2f300a033af5dc2b3308f01f22a1594a8516bccdfbd79568d63abf5c7e811
 ```
 
 Recompute the hash above and compare — any drift means the package has been tampered with and the seal is invalid. This is a self-assessment; no external audit has been performed and a SOC 2 / NIST independent audit is committed post-funding.

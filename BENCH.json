@@ -2,13 +2,11 @@
  "schema": "anticloud.tier-bench/1",
  "project": "UNICENTA_OPOS",
  "source": {
-  "repo_path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\POS_SYSTEMS\\UNICENTA_OPOS\\UPSTREAM_CLONE",
   "git": {
-   "head": "22e7ae439eadd4f3a14f90a10cd54d0f3fd7c298",
-   "url": "https://github.com/evan361425/flutter-pos-system",
-   "branch": "main",
-   "committed_at": "",
-   "sha_verified_from": "GitHub API substitute swap 2026-10-12"
+   "url": "https://github.com/DeanBeer/uniCenta-oPOS",
+   "head": "e67d2e1d5ec0dc1dda6b633e70be6f94834dabca",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/evan361425/flutter-pos-system"
   }
  },
  "metrics": {
